@@ -1,1 +1,3 @@
-# rocket-game
+Rocket Game
+
+Alpha work in progress.
